@@ -67,3 +67,4 @@ class TinderBot():
 
 bot = TinderBot()
 bot.login()
+bot.auto_swipe()
